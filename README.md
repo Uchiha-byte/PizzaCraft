@@ -45,7 +45,7 @@ A modern, feature-rich pizza delivery application built with React, TypeScript, 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone < https://github.com/Uchiha-byte/PizzaCraft.git>
 cd pizza-delivery-app
 ```
 
