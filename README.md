@@ -67,12 +67,13 @@ The application will be available at `http://localhost:5173`
 - **Build Tool**: Vite
 - **Styling**: Tailwind CSS
 - **State Management**: React Context
-- **Data Fetching**: TanStack Query (React Query)
+- **Data Fetching**: TanStack Query (React Query) 
 - **Routing**: React Router
 - **Payment Integration**: Razorpay
 - **UI Components**: Custom components with Lucide icons
 - **Form Handling**: React Hook Form
 - **Notifications**: Sonner
+
 
 ## 📁 Project Structure
 
